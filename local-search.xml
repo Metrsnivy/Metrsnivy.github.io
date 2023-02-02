@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>个人评分标准与术语</title>
+    <link href="/2023/02/03/%E4%B8%AA%E4%BA%BA%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%E4%B8%8E%E6%9C%AF%E8%AF%AD/"/>
+    <url>/2023/02/03/%E4%B8%AA%E4%BA%BA%E8%AF%84%E5%88%86%E6%A0%87%E5%87%86%E4%B8%8E%E6%9C%AF%E8%AF%AD/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《无名小卒拯救世界》评测</title>
+    <link href="/2023/02/03/%E3%80%8A%E6%97%A0%E5%90%8D%E5%B0%8F%E5%8D%92%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C%E3%80%8B%E8%AF%84%E6%B5%8B/"/>
+    <url>/2023/02/03/%E3%80%8A%E6%97%A0%E5%90%8D%E5%B0%8F%E5%8D%92%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C%E3%80%8B%E8%AF%84%E6%B5%8B/</url>
+    
+    <content type="html"><![CDATA[<p>无名小卒拯救世界 Nobody Saves the World</p><blockquote><p>游戏发行时间：1&#x2F;18&#x2F;2022<br>个人通关时间：1&#x2F;11&#x2F;2023<br>评测平台：XBOX For Windows PC<br>本地化：简体中文<br>个人游戏时间：23.3小时<br>通关所需时间：15小时<br>画质设置：默认<br>难度设置：普通<br>通关状态：any% + 全形态S</p></blockquote><h2 id="Verdict"><a href="#Verdict" class="headerlink" title="Verdict"></a>Verdict</h2><p>以老式AAVG地图为底色，用十五种形态变换来上色，再以无厘头的对话润色，便组成了《无名小卒拯救世界》。本作作为一个ARPG，少见地通过要求玩家变身以完成特定任务来升级，再加上高度自定义的角色技能使得本作前10小时的Gameplay都颇具趣味，然而随着任务数值设计的不合理与新鲜感的散去，玩家却只能体验到一个满是桎梏的刷子游戏。</p><h2 id="🐍GN-7-7-x2F-10"><a href="#🐍GN-7-7-x2F-10" class="headerlink" title="🐍GN 7.7&#x2F;10"></a>🐍GN 7.7&#x2F;10</h2><p>优点：</p><ul><li>极具特色的成长体系</li><li>变身功能高度自定义化</li><li>演出颇具幽默</li></ul><p>缺点：</p><ul><li>任务设计数值不合理</li><li>游戏流程过于冗长+逼肝</li><li>操作逻辑极为反人类</li></ul><blockquote><p>游戏性 7.5&#x2F;10<br>剧情与演出 8&#x2F;10<br>音乐与音效 7&#x2F;10<br>画质与美术 8&#x2F;10<br>推荐输入设备：控制器<br>性价比：建议打折<br>媒体评分：[IGN]7&#x2F;10 [GameSpot]9&#x2F;10 [Metacritic-PC]7.9&#x2F;10 [OpenCritic]8.1&#x2F;10</p></blockquote>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>2022发售</tag>
+      
+      <tag>7分</tag>
+      
+      <tag>ARPG</tag>
+      
+      <tag>独立游戏</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/02/01/hello-world/"/>
+    <url>/2023/02/01/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《逃出生天》简评</title>
+    <link href="/2023/01/03/%E3%80%8A%E9%80%83%E5%87%BA%E7%94%9F%E5%A4%A9%E3%80%8B%E8%AF%84%E6%B5%8B/"/>
+    <url>/2023/01/03/%E3%80%8A%E9%80%83%E5%87%BA%E7%94%9F%E5%A4%A9%E3%80%8B%E8%AF%84%E6%B5%8B/</url>
+    
+    <content type="html"><![CDATA[<p>逃出生天 A Way Out</p><blockquote><p>游戏发行时间：3&#x2F;23&#x2F;2018<br>个人通关时间：1&#x2F;3&#x2F;2023<br>评测平台：EA Origin Desktop<br>本地化：无中文<br>个人游戏时间&amp;通关游戏时长：6小时<br>画质设置：默认<br>通关状态：any%</p></blockquote><h3 id="游戏性"><a href="#游戏性" class="headerlink" title="游戏性"></a>游戏性</h3><p>本作应该是分屏COOP的鼻祖，光在创新上就是值得肯定的，不过玩过后作<a href="">It Takes Two</a>的朋友估计能知道，本作的分屏COOP极不成熟，可视视角极低的上下分屏，为了展现剧情的三分屏等等层出不穷，也常有非对称的场景出现，有时一个玩家触发了全屏剧情，另一个玩家所进行的动作就会直接被打断，这些在后作中都是不曾出现的。本作偏向于一个纯粹的电影游戏，为演出设计的桥段偏多，在双人谜题方面只能说是中规中矩。作为一款流程不长的线性作品，游戏广度很高，解谜枪战摩托开车应有尽有，但深度只能说一言难尽，枪械载具手感乏善可陈，除去这些，游戏的主要玩法不过是QTE罢了。</p><h3 id="剧情与演出"><a href="#剧情与演出" class="headerlink" title="剧情与演出"></a>剧情与演出</h3><p>本作的剧情属于”让人眼前一亮“的水平，说多好不见得，不过是从一个《肖申克的救赎》式的故事转到了平凡的犯罪故事罢了，虽然部分情节有喂屎嫌疑，但总体还是可以的。</p><h3 id="音乐与音效"><a href="#音乐与音效" class="headerlink" title="音乐与音效"></a>音乐与音效</h3><p>为了多人合作时的感觉，本作刻意的削减了背景音乐的存在，但本作的音效应该算烂的水平。</p><h3 id="画面与艺术"><a href="#画面与艺术" class="headerlink" title="画面与艺术"></a>画面与艺术</h3><p>本作的画面非常一般，作为PS4 X1时代中后期的作品，画面表现力，尤其是光与水的画面与PS3 X360世代后期的作品无异。</p><h2 id="🐍GN-8-2-x2F-10-“Great”可圈可点"><a href="#🐍GN-8-2-x2F-10-“Great”可圈可点" class="headerlink" title="🐍GN 8.2&#x2F;10 “Great”可圈可点"></a>🐍GN 8.2&#x2F;10 “Great”可圈可点</h2><blockquote><p>推荐输入设备：控制器<br>性价比：建议打折<br>媒体评分：[IGN]8.3&#x2F;10[GameSpot]6&#x2F;10[Metacritic-PC]7.8&#x2F;10[OpenCritic]7.9&#x2F;10</p></blockquote>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>AAVG</tag>
+      
+      <tag>COOP</tag>
+      
+      <tag>2018发售</tag>
+      
+      <tag>8分</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《双人成行》评测</title>
+    <link href="/2021/01/27/%E3%80%8A%E5%8F%8C%E4%BA%BA%E6%88%90%E8%A1%8C%E3%80%8B%E8%AF%84%E6%B5%8B/"/>
+    <url>/2021/01/27/%E3%80%8A%E5%8F%8C%E4%BA%BA%E6%88%90%E8%A1%8C%E3%80%8B%E8%AF%84%E6%B5%8B/</url>
+    
+    <content type="html"><![CDATA[<p>双人成行 It Takes Two</p><blockquote><p>游戏发行时间：3&#x2F;25&#x2F;2021<br>个人通关时间：1&#x2F;27&#x2F;2022<br>评测平台：EA Origin Desktop<br>本地化：简体中文<br>个人游戏时间&amp;通关所需时间：12小时<br>画质设置：默认<br>通关状态：any%</p></blockquote><h3 id="引言：合作游戏与乐趣"><a href="#引言：合作游戏与乐趣" class="headerlink" title="引言：合作游戏与乐趣"></a>引言：合作游戏与乐趣</h3><p>合作游戏，也许是一个“寻根”的过程，人作为群居动物，趋向合作游戏也是自然的，中国也有句古话叫“独乐乐不如众乐乐”。但在电子游戏界，也许是因为各种原因，绝大多数游戏都是单人游戏。而部分有多人的游戏也仅仅是将多人作为一个额外的模式。这便体现了It Takes Two的独特性，如同其游戏名：“这需要两个人”所述。“双人成行，单人不行”也许就是本作的设计思路。<br>游戏中，你将扮演一个即将走向离婚的家庭的男&#x2F;女方，以分屏的形式开始游玩。将平台跳跃作为基础机制，以家里各种物件作为场景。</p><h3 id="根基扎实的平台跳跃"><a href="#根基扎实的平台跳跃" class="headerlink" title="根基扎实的平台跳跃"></a>根基扎实的平台跳跃</h3><p>看上去，本作的平台跳跃底层机制是优秀的。复合操作的存在与精细的实体碰撞箱总能给人惊喜。而平台跳跃的手感也有经过精细的打磨，总体来说，本作的行进曲线接近于此图像<img src="/img/vgr/assets/it2.png" alt="跳跃曲线"><br>而游戏也随之做出了大面积陆地与中面积危险的设计，低惯性也使得操作感颇强。但不知为何，在如此深刻的框架下，游戏的箱庭设计，收集要素等都没有特别具有操作性（甚至不少收集要素都不用双人配合就能完成，因此，本作的收集要素也不会给玩家太大的压力）。箱庭的构建也只能说是一般，功夫都下在了场景设计上。此外，本作的收集要素都是小游戏，给玩家的惊喜感非常足。</p><h3 id="目不暇接的新机制"><a href="#目不暇接的新机制" class="headerlink" title="目不暇接的新机制"></a>目不暇接的新机制</h3><p>在其他游戏中，鲜有人可以想象：前一秒我还在打蜜蜂，后一秒我就在玩格斗游戏了，在此之后我又在玩俯视角爽游了。而It Takes Two便把这一大堆的机制打包进了一个游戏，并将它们分配到每一章节中，每一个章节中又含有许多小游戏，除去平台跳跃的底层外，每一关甚至都能当一个独立的游戏出来卖。但制作精力无疑是有限的，极广的广度造成的便是相对浅薄的关卡设计。因此，本作像是一部爆米花电影，乍一看异常吸睛，细究则感觉并没有那么优秀。我原以为是制作组的野心与成品之间的冲突，但转念一想，也许这便是作者的想法。每一关的新机制似乎要让制作组要掌握更多的设计知识，但机制的不继承性也大大减小了关卡设计的难度。而究其双人合作部分，这点反倒有点坑了自己，不同的关卡质量不一，有些部分所谓的“合作”就是把一个人的机制强拆给两个人（点名批评打蜜蜂），而并非两人掌握不同的机制进行配合。其中的不少解谜部分更是直接将trigger展现给了玩家……种种原因导致了本作的难度曲线非常平直。毫不夸张的说，第一章的boss比最后两章的都难，也算是有得有失吧。（还不如设计一个FPS，一人操控视角和开枪，一人移动（划掉））</p><h3 id="逆转思路的叙事手法与艺术设计"><a href="#逆转思路的叙事手法与艺术设计" class="headerlink" title="逆转思路的叙事手法与艺术设计"></a>逆转思路的叙事手法与艺术设计</h3><p>作为一个小清新的家庭肥皂剧风格的游戏，本作自然没有什么拯救世界，保护孩子等等情节。但与所谓肥皂剧不同的是，本作也没有什么狗血情节，情节几乎只有合作相关，且本作的叙事视角是“通过缩小自己”达到“小事化大”的效果，很多情节都是看似亲切但又陌生的小事。再加上拟人的艺术形象，独特的镜头语言，给予了本作自成一派的叙事风格。但我始终没法代入到其中，合作的玩法与“重归合作”的剧情产生了极大的分歧。这也就导致了嘴上说着不，但身体还是很诚实的问题。</p><h2 id="Verdict"><a href="#Verdict" class="headerlink" title="Verdict"></a>Verdict</h2><p>It Takes Two无疑是2021年中最具特色的作品之一，双人合作与平台跳跃、微解谜等要素融合，再加上颇具风格的电影化叙事，为玩家带来了一场难忘的冒险。即使合作对象是并不完全契合游戏原本的主题（恋人破镜重圆），其独具一格的游戏性也可以为双方带来颇多的快乐。但也许是作者的经验不足，本作的关卡设计与关卡内容（制作人的野心）并非那么匹配。综观电子游戏界，无可辩驳的是，本作就是当下合作游戏的顶级作品，因此，踏入合作游戏这一领域时，It Takes Two则会是其中的经典之一，它值得每一个想玩合作游戏的玩家去体验。</p><h2 id="🐍GN-9-1-“Amazing”-惊艳之作"><a href="#🐍GN-9-1-“Amazing”-惊艳之作" class="headerlink" title="🐍GN 9.1 “Amazing” 惊艳之作"></a>🐍GN 9.1 “Amazing” 惊艳之作</h2><p>优点：</p><ul><li>游戏机制独特，几乎没有竞争对手</li><li>惊人的游戏广度，每一章都会感到新鲜感</li><li>精湛的艺术设计</li></ul><p>缺点：</p><ul><li>剧情过于俗套</li><li>关卡设计水平一般</li></ul><blockquote><p>游戏性 9&#x2F;10<br>剧情与演出 8.5&#x2F;10<br>音乐与音效 8.5&#x2F;10<br>画质与美术 9.5&#x2F;10<br>推荐输入设备：控制器<br>性价比：推荐打折入<br>媒体评分：[IGN]9&#x2F;10 [GameSpot]9&#x2F;10 [Metacritic-PC]8.9&#x2F;10 [OpenCritic]8.9&#x2F;10</p></blockquote>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>2021发售</tag>
+      
+      <tag>9分</tag>
+      
+      <tag>AAVG</tag>
+      
+      <tag>3D Platformer</tag>
+      
+      <tag>COOP</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
